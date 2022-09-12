@@ -1,0 +1,17 @@
+C:\Users\ksh\source\repos\CSPT\CSPT\bin\Debug\net6.0-windows\CSPT.exe
+C:\Users\ksh\source\repos\CSPT\CSPT\bin\Debug\net6.0-windows\CSPT.deps.json
+C:\Users\ksh\source\repos\CSPT\CSPT\bin\Debug\net6.0-windows\CSPT.runtimeconfig.json
+C:\Users\ksh\source\repos\CSPT\CSPT\bin\Debug\net6.0-windows\CSPT.dll
+C:\Users\ksh\source\repos\CSPT\CSPT\bin\Debug\net6.0-windows\CSPT.pdb
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.csproj.AssemblyReference.cache
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.Form1.resources
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.csproj.GenerateResource.cache
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.AssemblyInfoInputs.cache
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.AssemblyInfo.cs
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.csproj.CoreCompileInputs.cache
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.dll
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\refint\CSPT.dll
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.pdb
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\CSPT.genruntimeconfig.cache
+C:\Users\ksh\source\repos\CSPT\CSPT\obj\Debug\net6.0-windows\ref\CSPT.dll
